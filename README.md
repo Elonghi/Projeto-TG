@@ -9,7 +9,7 @@
 
 ## Sobre o projeto
 
-Este projeto esta sendo feito com intuito de auxiliar no gerenciamento de atiradores do tiro de guerra onde sera possivel ver qual pelotão cada atirador pertence
+Este projeto esta sendo feito com intuito de ser open source e auxiliar no gerenciamento de atiradores do tiro de guerra onde sera possivel ver qual pelotão cada atirador pertence
 suas faltas, anotações, pontuações, se é um monitor, endereço, telefone e outros dados
 
 ## Requisitos
