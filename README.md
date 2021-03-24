@@ -18,15 +18,15 @@ suas faltas, anotações, pontuações, se é um monitor, endereço, telefone e 
 
 ## Instalação
 
-Ao baixar o projeto rodar os seguintes comandos 
-    composer install para instalar as dependencias necessarias
-    npm install para instalar os modulos do JetStream e do livewire (Aplicação utilizada para facilitar o login/registro de atiradores)
-    npm run dev para criar o webpack
+Ao baixar o projeto rodar os seguintes comandos **
+    composer install para instalar as dependencias necessarias **
+    npm install para instalar os modulos do JetStream e do livewire (Aplicação utilizada para facilitar o login/registro de atiradores)**
+    npm run dev para criar o webpack**
     
 Configurar o banco de dados que sera utilizado com o projeto:
-    Insira os dados de conexão com o banco de dados no arquivo .env
-    Crie uma nova base de dados com o nome que foi configurado no .env (utf8mb4_general_ci)
-    Rode o comando php artisan:migrate para gerar as tabelas na base de dados
+    Insira os dados de conexão com o banco de dados no arquivo .env**
+    Crie uma nova base de dados com o nome que foi configurado no .env (utf8mb4_general_ci)**
+    Rode o comando php artisan:migrate para gerar as tabelas na base de dados**
 
 ## Laravel Sponsors
 
