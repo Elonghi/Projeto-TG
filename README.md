@@ -9,7 +9,11 @@
 
 ## Sobre o projeto
 
+<<<<<<< HEAD
 Este projeto esta sendo feito com intuito de auxiliar no gerenciamento de atiradores do tiro de guerra onde sera possivel ver qual pelotão cada atirador pertence
+=======
+Este projeto esta sendo feito com intuito de ser open source e auxiliar no gerenciamento de atiradores do tiro de guerra onde sera possivel ver qual pelotão cada atirador pertence
+>>>>>>> de71e74ae1b5cc004a41282309ad0ff7c0400a88
 suas faltas, anotações, pontuações, se é um monitor, endereço, telefone e outros dados
 
 ## Requisitos
@@ -27,6 +31,7 @@ Configurar o banco de dados que sera utilizado com o projeto:
   -  Insira os dados de conexão com o banco de dados no arquivo .env 
   -   Crie uma nova base de dados com o nome que foi configurado no .env (utf8mb4_general_ci)
   -  Rode o comando php artisan:migrate para gerar as tabelas na base de dados 
+<<<<<<< HEAD
 
 ## Laravel Sponsors
 
@@ -61,3 +66,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+>>>>>>> de71e74ae1b5cc004a41282309ad0ff7c0400a88

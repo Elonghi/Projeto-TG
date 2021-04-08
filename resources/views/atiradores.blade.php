@@ -66,7 +66,9 @@
                   
                           <!-- Corpo do modal -->
                           <div class="modal-body">
-                            <p>Conteúdo no corpo do modal.</p>
+                            <form action="" method="post">
+                            @csrf
+                            </form>
                             <p>ID: {{ $user['id'] }}</p>
                           </div>
                   
